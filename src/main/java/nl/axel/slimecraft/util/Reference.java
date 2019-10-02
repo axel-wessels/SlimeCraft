@@ -13,4 +13,8 @@ public final class Reference {
     public static final String CLASS_PROXY_CLIENT = "nl.axel.slimecraft.proxy.ClientProxy";
     public static final String CLASS_PROXY_COMMON = "nl.axel.slimecraft.proxy.CommonProxy";
 
+    public static final String MOD_PREFIX = MOD_ID + ":";
+
+    public static final String PREFIX_LANG = "assets/slimecraft/lang";
+
 }
